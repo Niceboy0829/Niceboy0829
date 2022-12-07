@@ -1,15 +1,29 @@
-# Hi I am a senior developer
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer;Over+6+years+of+Experience+in+Web." alt="Typing SVG" /></a>
+</div>
 
-I have been working as a blockchain and senior web developer for more than 7 years.
+## Overview
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elitesuper&theme=github" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elitesuper&theme=github&utcOffset=8" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elitesuper&theme=github" />  
+</div>
 
-From June 2014, I have been living and breathing web development and creating modern and user friendly interfaces. I have had the chance to immerse myself in many dificult works and projects.
+## Achievements
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=7" />
+</p>
 
-From May 2018, working as a blockchain developer in several companies, improved practical knowledge of blockchain world. Mainly skilled in Solidity and Web3.
+## Prefered Technicals
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 
-## What I am focusing on
-
-I've more than 3 years of experience in Rust with focusing on writing performant and high quality contracts.
-
-## Skills
-
-Solidity, Web3, Rust, React, Flutter, Vue, Laravel, Express, MongoDB, MySQL, Angular, Django, python, Flask, AWS.
+## Languages & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,ts,css,sass,php,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,webpack,django,flask,laravel,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,c,cs,cpp,java,ruby,rails,md,nginx,powershell,prisma,qt,vscode,atom,idea,androidstudio,eclipse,git,github,linux,svg,unity,vercel,heroku,aws" />
+  </a>
+</p>
+<br><br>
